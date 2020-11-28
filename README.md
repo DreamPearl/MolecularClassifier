@@ -14,11 +14,11 @@ Final performance measures of our model.
 
 | Metric | Performance |
 | - | - |
-| Validation accuracy   |   0.99848 |
-| Validation loss       |   0.00609 |
-| Validation precision  |   0.99866 |
-| Validation recall     |   0.99866 |
-| Validation f1 score   |   0.99866 |
+| Validation accuracy   |   0.99772 |
+| Validation loss       |   0.00714 |
+| Validation precision  |   0.99762 |
+| Validation recall     |   0.99762 |
+| Validation f1 score   |   0.99762 |
 
 ### Graphs
 ![model accuracy graph](screenshots/model_accuracy_graph.png)
